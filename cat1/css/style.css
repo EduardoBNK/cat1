@@ -1,0 +1,36 @@
+.fundo{
+    background-image: url(/gatinho.jpg);
+    background-repeat: no-repeat;
+    background-size: cover;
+    justify-content: center;
+    align-items: center;
+    display: flex;
+    height: 100vh;
+    
+}
+
+.imagens-total{
+    justify-content: space-around;
+    align-items: center;
+    display: flex;
+    width: 800px;
+    height: 250px;
+    border: 5px solid black;
+    border-radius: 40px;
+    
+}
+.linkedin{
+    width: 100px;
+    height: 100px;
+}
+.instagram{
+    width: 100px;
+    height: 100px;
+}
+.github{
+    width: 100px;
+    height: 100px;
+}
+.banner{
+    
+}
